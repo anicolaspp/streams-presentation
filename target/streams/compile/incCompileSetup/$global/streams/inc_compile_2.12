@@ -1,0 +1,588 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /Users/anicolaspp/IdeaProjects/hlist/target/scala-2.12/classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.12.1
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+11 items
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSink.scala -> /Users/anicolaspp/IdeaProjects/hlist/target/scala-2.12/classes/KafkaSink$.class
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSink.scala -> /Users/anicolaspp/IdeaProjects/hlist/target/scala-2.12/classes/KafkaSink.class
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSource.scala -> /Users/anicolaspp/IdeaProjects/hlist/target/scala-2.12/classes/KafkaSource$.class
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSource.scala -> /Users/anicolaspp/IdeaProjects/hlist/target/scala-2.12/classes/KafkaSource.class
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoSource.scala -> /Users/anicolaspp/IdeaProjects/hlist/target/scala-2.12/classes/MongoSource.class
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoStreams.scala -> /Users/anicolaspp/IdeaProjects/hlist/target/scala-2.12/classes/MongoStreams$.class
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoStreams.scala -> /Users/anicolaspp/IdeaProjects/hlist/target/scala-2.12/classes/MongoStreams.class
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/Streams.scala -> /Users/anicolaspp/IdeaProjects/hlist/target/scala-2.12/classes/Number$.class
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/Streams.scala -> /Users/anicolaspp/IdeaProjects/hlist/target/scala-2.12/classes/Number.class
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/Streams.scala -> /Users/anicolaspp/IdeaProjects/hlist/target/scala-2.12/classes/Streams$.class
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/Streams.scala -> /Users/anicolaspp/IdeaProjects/hlist/target/scala-2.12/classes/Streams.class
+binary dependencies:
+30 items
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSink.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_60.jdk/Contents/Home/jre/lib/rt.jar
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSink.scala -> /Users/anicolaspp/.ivy2/cache/com.typesafe.akka/akka-actor_2.12/jars/akka-actor_2.12-2.4.17.jar
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSink.scala -> /Users/anicolaspp/.ivy2/cache/com.typesafe.akka/akka-stream-kafka_2.12/jars/akka-stream-kafka_2.12-0.13.jar
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSink.scala -> /Users/anicolaspp/.ivy2/cache/com.typesafe.akka/akka-stream_2.12/jars/akka-stream_2.12-2.4.17.jar
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSink.scala -> /Users/anicolaspp/.ivy2/cache/org.apache.kafka/kafka-clients/jars/kafka-clients-0.10.0.1.jar
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSink.scala -> /Users/anicolaspp/.ivy2/cache/org.reactivemongo/reactivemongo-akkastream_2.12/jars/reactivemongo-akkastream_2.12-0.12.1.jar
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSink.scala -> /Users/anicolaspp/.ivy2/cache/org.reactivemongo/reactivemongo-bson_2.12/jars/reactivemongo-bson_2.12-0.12.1.jar
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSink.scala -> /Users/anicolaspp/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.1.jar
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSource.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_60.jdk/Contents/Home/jre/lib/rt.jar
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSource.scala -> /Users/anicolaspp/.ivy2/cache/com.typesafe.akka/akka-actor_2.12/jars/akka-actor_2.12-2.4.17.jar
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSource.scala -> /Users/anicolaspp/.ivy2/cache/com.typesafe.akka/akka-stream-kafka_2.12/jars/akka-stream-kafka_2.12-0.13.jar
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSource.scala -> /Users/anicolaspp/.ivy2/cache/com.typesafe.akka/akka-stream_2.12/jars/akka-stream_2.12-2.4.17.jar
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSource.scala -> /Users/anicolaspp/.ivy2/cache/org.apache.kafka/kafka-clients/jars/kafka-clients-0.10.0.1.jar
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSource.scala -> /Users/anicolaspp/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.1.jar
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoSource.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_60.jdk/Contents/Home/jre/lib/rt.jar
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoSource.scala -> /Users/anicolaspp/.ivy2/cache/com.typesafe.akka/akka-stream_2.12/jars/akka-stream_2.12-2.4.17.jar
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoSource.scala -> /Users/anicolaspp/.ivy2/cache/org.reactivemongo/reactivemongo-akkastream_2.12/jars/reactivemongo-akkastream_2.12-0.12.1.jar
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoSource.scala -> /Users/anicolaspp/.ivy2/cache/org.reactivemongo/reactivemongo-bson_2.12/jars/reactivemongo-bson_2.12-0.12.1.jar
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoSource.scala -> /Users/anicolaspp/.ivy2/cache/org.reactivemongo/reactivemongo_2.12/jars/reactivemongo_2.12-0.12.1.jar
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoSource.scala -> /Users/anicolaspp/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.1.jar
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoStreams.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_60.jdk/Contents/Home/jre/lib/rt.jar
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoStreams.scala -> /Users/anicolaspp/.ivy2/cache/com.typesafe.akka/akka-actor_2.12/jars/akka-actor_2.12-2.4.17.jar
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoStreams.scala -> /Users/anicolaspp/.ivy2/cache/com.typesafe.akka/akka-stream_2.12/jars/akka-stream_2.12-2.4.17.jar
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoStreams.scala -> /Users/anicolaspp/.ivy2/cache/org.reactivemongo/reactivemongo-akkastream_2.12/jars/reactivemongo-akkastream_2.12-0.12.1.jar
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoStreams.scala -> /Users/anicolaspp/.ivy2/cache/org.reactivemongo/reactivemongo-bson_2.12/jars/reactivemongo-bson_2.12-0.12.1.jar
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoStreams.scala -> /Users/anicolaspp/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.1.jar
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/Streams.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_60.jdk/Contents/Home/jre/lib/rt.jar
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/Streams.scala -> /Users/anicolaspp/.ivy2/cache/com.typesafe.akka/akka-actor_2.12/jars/akka-actor_2.12-2.4.17.jar
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/Streams.scala -> /Users/anicolaspp/.ivy2/cache/com.typesafe.akka/akka-stream_2.12/jars/akka-stream_2.12-2.4.17.jar
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/Streams.scala -> /Users/anicolaspp/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.1.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+2 items
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSink.scala -> /Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoSource.scala
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoStreams.scala -> /Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoSource.scala
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+2 items
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSink.scala -> /Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoSource.scala
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoStreams.scala -> /Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoSource.scala
+inheritance external dependencies:
+0 items
+class names:
+11 items
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSink.scala -> KafkaSink
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSink.scala -> KafkaSink$
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSource.scala -> KafkaSource
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSource.scala -> KafkaSource$
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoSource.scala -> MongoSource
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoStreams.scala -> MongoStreams
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoStreams.scala -> MongoStreams$
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/Streams.scala -> Number
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/Streams.scala -> Number$
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/Streams.scala -> Streams
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/Streams.scala -> Streams$
+used names:
+414 items
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSink.scala -> #::
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSink.scala -> <byname>
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSink.scala -> <init>
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSink.scala -> A
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSink.scala -> ActorMaterializer
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSink.scala -> ActorMaterializerSettings
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSink.scala -> ActorRefFactory
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSink.scala -> ActorSystem
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSink.scala -> Any
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSink.scala -> Array
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSink.scala -> Await
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSink.scala -> Awaitable
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSink.scala -> B
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSink.scala -> BSONDocument
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSink.scala -> BSONValue
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSink.scala -> Byte
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSink.scala -> ByteArraySerializer
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSink.scala -> ConsWrapper
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSink.scala -> Done
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSink.scala -> Duration
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSink.scala -> ExecutionContext
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSink.scala -> ExecutionContextExecutor
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSink.scala -> Flow
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSink.scala -> FlowShape
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSink.scala -> Function0
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSink.scala -> Function1
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSink.scala -> Future
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSink.scala -> Graph
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSink.scala -> Inf
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSink.scala -> Infinite
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSink.scala -> Int
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSink.scala -> Iterator
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSink.scala -> K
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSink.scala -> KafkaSink
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSink.scala -> Mat2
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSink.scala -> Materializer
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSink.scala -> MongoSource
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSink.scala -> NotUsed
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSink.scala -> Nothing
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSink.scala -> Object
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSink.scala -> Option
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSink.scala -> Predef
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSink.scala -> Producer
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSink.scala -> ProducerRecord
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSink.scala -> ProducerSettings
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSink.scala -> Random
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSink.scala -> Repr
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSink.scala -> Serializer
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSink.scala -> Sink
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSink.scala -> SinkShape
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSink.scala -> Source
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSink.scala -> State
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSink.scala -> Stream
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSink.scala -> String
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSink.scala -> StringSerializer
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSink.scala -> T
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSink.scala -> T1
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSink.scala -> T2
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSink.scala -> Tuple2
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSink.scala -> Unit
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSink.scala -> V
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSink.scala -> aFlow
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSink.scala -> actor
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSink.scala -> akka
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSink.scala -> akkastream
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSink.scala -> apache
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSink.scala -> apply
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSink.scala -> bson
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSink.scala -> clients
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSink.scala -> common
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSink.scala -> concurrent
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSink.scala -> consWrapper
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSink.scala -> done
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSink.scala -> duration
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSink.scala -> ec
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSink.scala -> fold
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSink.scala -> fromIterator
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSink.scala -> get
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSink.scala -> global
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSink.scala -> immutable
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSink.scala -> iterator
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSink.scala -> kafka
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSink.scala -> kafkaSink
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSink.scala -> length
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSink.scala -> map
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSink.scala -> mat
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSink.scala -> nextString
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSink.scala -> org
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSink.scala -> package
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSink.scala -> plainSink
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSink.scala -> producer
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSink.scala -> randomValuesSource
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSink.scala -> reactivemongo
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSink.scala -> ready
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSink.scala -> rnd
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSink.scala -> runWith
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSink.scala -> s
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSink.scala -> scala
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSink.scala -> scaladsl
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSink.scala -> serialization
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSink.scala -> settings
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSink.scala -> shutdown
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSink.scala -> source
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSink.scala -> stream
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSink.scala -> system
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSink.scala -> toString
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSink.scala -> util
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSink.scala -> via
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSink.scala -> withBootstrapServers
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSource.scala -> <init>
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSource.scala -> <repeated>
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSource.scala -> ActorMaterializer
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSource.scala -> ActorMaterializerSettings
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSource.scala -> ActorRefFactory
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSource.scala -> ActorSystem
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSource.scala -> Any
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSource.scala -> AnyRef
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSource.scala -> Array
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSource.scala -> AutoSubscription
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSource.scala -> Await
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSource.scala -> Awaitable
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSource.scala -> Byte
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSource.scala -> ByteArrayDeserializer
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSource.scala -> Consumer
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSource.scala -> ConsumerConfig
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSource.scala -> ConsumerRecord
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSource.scala -> ConsumerSettings
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSource.scala -> Control
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSource.scala -> Deserializer
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSource.scala -> Done
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSource.scala -> Duration
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSource.scala -> Function1
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSource.scala -> Future
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSource.scala -> Inf
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSource.scala -> Infinite
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSource.scala -> K
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSource.scala -> KafkaSource
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSource.scala -> Materializer
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSource.scala -> Nothing
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSource.scala -> Object
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSource.scala -> Option
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSource.scala -> Predef
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSource.scala -> Repr
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSource.scala -> Source
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSource.scala -> String
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSource.scala -> StringDeserializer
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSource.scala -> Subscription
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSource.scala -> Subscriptions
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSource.scala -> T
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSource.scala -> Unit
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSource.scala -> V
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSource.scala -> actor
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSource.scala -> akka
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSource.scala -> apache
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSource.scala -> apply
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSource.scala -> clients
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSource.scala -> common
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSource.scala -> concurrent
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSource.scala -> consumer
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSource.scala -> done
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSource.scala -> duration
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSource.scala -> kafka
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSource.scala -> kafkaSource
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSource.scala -> map
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSource.scala -> mat
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSource.scala -> org
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSource.scala -> plainSource
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSource.scala -> println
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSource.scala -> ready
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSource.scala -> record
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSource.scala -> runForeach
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSource.scala -> scala
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSource.scala -> scaladsl
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSource.scala -> serialization
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSource.scala -> settings
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSource.scala -> stream
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSource.scala -> system
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSource.scala -> topics
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSource.scala -> value
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSource.scala -> withBootstrapServers
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSource.scala -> withGroupId
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSource.scala -> withProperty
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoSource.scala -> <refinement>
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoSource.scala -> ActorMaterializer
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoSource.scala -> AkkaStreamCursor
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoSource.scala -> Any
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoSource.scala -> AnyRef
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoSource.scala -> BSONCollection
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoSource.scala -> BSONCollectionProducer
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoSource.scala -> BSONDocument
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoSource.scala -> BSONDocumentIdentity
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoSource.scala -> BSONSerializationPack
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoSource.scala -> Boolean
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoSource.scala -> C
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoSource.scala -> Collection
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoSource.scala -> CollectionProducer
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoSource.scala -> Cursor
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoSource.scala -> CursorOps
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoSource.scala -> CursorProducer
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoSource.scala -> DefaultDB
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoSource.scala -> ErrorHandler
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoSource.scala -> ExecutionContext
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoSource.scala -> FailoverStrategy
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoSource.scala -> Function1
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoSource.scala -> Future
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoSource.scala -> GenericQueryBuilder
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoSource.scala -> Int
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoSource.scala -> Materializer
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoSource.scala -> MongoConnection
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoSource.scala -> MongoDriver
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoSource.scala -> MongoSource
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoSource.scala -> Nothing
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoSource.scala -> Option
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoSource.scala -> ParsedURI
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoSource.scala -> Predef
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoSource.scala -> ProducedCursor
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoSource.scala -> ReadPreference
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoSource.scala -> Reader
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoSource.scala -> S
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoSource.scala -> Source
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoSource.scala -> State
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoSource.scala -> String
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoSource.scala -> T
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoSource.scala -> Try
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoSource.scala -> U
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoSource.scala -> Writer
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoSource.scala -> akka
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoSource.scala -> akkastream
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoSource.scala -> api
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoSource.scala -> apply
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoSource.scala -> bson
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoSource.scala -> collection
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoSource.scala -> collections
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoSource.scala -> concurrent
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoSource.scala -> connection
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoSource.scala -> cursor
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoSource.scala -> cursorProducer
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoSource.scala -> database
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoSource.scala -> db
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoSource.scala -> documentSource
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoSource.scala -> ec
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoSource.scala -> empty
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoSource.scala -> find
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoSource.scala -> flatMap
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoSource.scala -> fromTry
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoSource.scala -> getCollection
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoSource.scala -> getConnection
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoSource.scala -> map
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoSource.scala -> mat
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoSource.scala -> package
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoSource.scala -> parseURI
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoSource.scala -> qual$1
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoSource.scala -> qual$2
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoSource.scala -> reactivemongo
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoSource.scala -> scala
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoSource.scala -> stream
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoSource.scala -> x$2
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoSource.scala -> x$3
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoSource.scala -> x$4
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoSource.scala -> x$5
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoStreams.scala -> <init>
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoStreams.scala -> ActorMaterializer
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoStreams.scala -> ActorMaterializerSettings
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoStreams.scala -> ActorRefFactory
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoStreams.scala -> ActorSystem
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoStreams.scala -> Any
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoStreams.scala -> Array
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoStreams.scala -> Await
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoStreams.scala -> Awaitable
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoStreams.scala -> BSONDocument
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoStreams.scala -> BSONValue
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoStreams.scala -> Done
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoStreams.scala -> Duration
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoStreams.scala -> ExecutionContext
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoStreams.scala -> ExecutionContextExecutor
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoStreams.scala -> Function1
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoStreams.scala -> Future
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoStreams.scala -> Inf
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoStreams.scala -> Infinite
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoStreams.scala -> Materializer
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoStreams.scala -> MongoSource
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoStreams.scala -> MongoStreams
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoStreams.scala -> Nothing
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoStreams.scala -> Object
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoStreams.scala -> Option
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoStreams.scala -> Predef
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoStreams.scala -> Repr
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoStreams.scala -> S
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoStreams.scala -> Source
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoStreams.scala -> State
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoStreams.scala -> String
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoStreams.scala -> T
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoStreams.scala -> Unit
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoStreams.scala -> actor
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoStreams.scala -> akka
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoStreams.scala -> akkastream
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoStreams.scala -> apply
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoStreams.scala -> bson
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoStreams.scala -> concurrent
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoStreams.scala -> doc
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoStreams.scala -> done
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoStreams.scala -> duration
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoStreams.scala -> ec
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoStreams.scala -> flatMap
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoStreams.scala -> get
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoStreams.scala -> getDocumentSourceFromCollection
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoStreams.scala -> global
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoStreams.scala -> map
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoStreams.scala -> mat
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoStreams.scala -> println
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoStreams.scala -> processSource
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoStreams.scala -> reactivemongo
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoStreams.scala -> ready
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoStreams.scala -> runForeach
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoStreams.scala -> scala
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoStreams.scala -> scaladsl
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoStreams.scala -> shutdown
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoStreams.scala -> source
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoStreams.scala -> stream
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoStreams.scala -> system
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/Streams.scala -> #::
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/Streams.scala -> %
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/Streams.scala -> &&
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/Streams.scala -> +
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/Streams.scala -> <byname>
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/Streams.scala -> <init>
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/Streams.scala -> ==
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/Streams.scala -> A
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/Streams.scala -> AbstractFunction1
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/Streams.scala -> ActorMaterializer
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/Streams.scala -> ActorMaterializerSettings
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/Streams.scala -> ActorRefFactory
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/Streams.scala -> ActorSystem
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/Streams.scala -> Any
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/Streams.scala -> AnyRef
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/Streams.scala -> Array
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/Streams.scala -> Await
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/Streams.scala -> Awaitable
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/Streams.scala -> Boolean
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/Streams.scala -> ConsWrapper
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/Streams.scala -> Done
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/Streams.scala -> Duration
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/Streams.scala -> Flow
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/Streams.scala -> FlowShape
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/Streams.scala -> Function0
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/Streams.scala -> Function1
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/Streams.scala -> Future
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/Streams.scala -> Graph
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/Streams.scala -> IndexOutOfBoundsException
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/Streams.scala -> Inf
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/Streams.scala -> Infinite
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/Streams.scala -> Int
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/Streams.scala -> Iterator
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/Streams.scala -> Long
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/Streams.scala -> Mat2
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/Streams.scala -> Materializer
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/Streams.scala -> None
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/Streams.scala -> NotUsed
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/Streams.scala -> Nothing
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/Streams.scala -> Number
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/Streams.scala -> Object
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/Streams.scala -> Option
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/Streams.scala -> Predef
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/Streams.scala -> Product
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/Streams.scala -> Repr
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/Streams.scala -> ScalaRunTime
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/Streams.scala -> Serializable
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/Streams.scala -> Some
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/Streams.scala -> Source
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/Streams.scala -> Stream
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/Streams.scala -> Streams
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/Streams.scala -> String
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/Streams.scala -> T
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/Streams.scala -> T0
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/Streams.scala -> Unit
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/Streams.scala -> _hashCode
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/Streams.scala -> _root_
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/Streams.scala -> _toString
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/Streams.scala -> actor
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/Streams.scala -> akka
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/Streams.scala -> apply
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/Streams.scala -> asInstanceOf
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/Streams.scala -> concurrent
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/Streams.scala -> consWrapper
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/Streams.scala -> duration
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/Streams.scala -> eq
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/Streams.scala -> fromIterator
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/Streams.scala -> immutable
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/Streams.scala -> isInstanceOf
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/Streams.scala -> map
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/Streams.scala -> mat
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/Streams.scala -> n
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/Streams.scala -> numbers
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/Streams.scala -> package
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/Streams.scala -> println
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/Streams.scala -> ready
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/Streams.scala -> runForeach
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/Streams.scala -> runnable
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/Streams.scala -> runtime
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/Streams.scala -> scala
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/Streams.scala -> scaladsl
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/Streams.scala -> shutdown
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/Streams.scala -> stream
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/Streams.scala -> succ
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/Streams.scala -> system
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/Streams.scala -> take
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/Streams.scala -> toIterator
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/Streams.scala -> toNumber
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/Streams.scala -> toString
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/Streams.scala -> typedProductIterator
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/Streams.scala -> unboundedNumbersFrom
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/Streams.scala -> value
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/Streams.scala -> via
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/Streams.scala -> ||
+product stamps:
+11 items
+/Users/anicolaspp/IdeaProjects/hlist/target/scala-2.12/classes/KafkaSink$.class -> lastModified(1487824595000)
+/Users/anicolaspp/IdeaProjects/hlist/target/scala-2.12/classes/KafkaSink.class -> lastModified(1487824595000)
+/Users/anicolaspp/IdeaProjects/hlist/target/scala-2.12/classes/KafkaSource$.class -> lastModified(1487824758000)
+/Users/anicolaspp/IdeaProjects/hlist/target/scala-2.12/classes/KafkaSource.class -> lastModified(1487824758000)
+/Users/anicolaspp/IdeaProjects/hlist/target/scala-2.12/classes/MongoSource.class -> lastModified(1487824595000)
+/Users/anicolaspp/IdeaProjects/hlist/target/scala-2.12/classes/MongoStreams$.class -> lastModified(1487824595000)
+/Users/anicolaspp/IdeaProjects/hlist/target/scala-2.12/classes/MongoStreams.class -> lastModified(1487824595000)
+/Users/anicolaspp/IdeaProjects/hlist/target/scala-2.12/classes/Number$.class -> lastModified(1487824595000)
+/Users/anicolaspp/IdeaProjects/hlist/target/scala-2.12/classes/Number.class -> lastModified(1487824595000)
+/Users/anicolaspp/IdeaProjects/hlist/target/scala-2.12/classes/Streams$.class -> lastModified(1487824595000)
+/Users/anicolaspp/IdeaProjects/hlist/target/scala-2.12/classes/Streams.class -> lastModified(1487824595000)
+source stamps:
+5 items
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSink.scala -> hash(9598534ac87787d12eef92ddbbe3d9ec21b18ede)
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSource.scala -> hash(788a908cfa4cf6305656b8a90e69eafce020b36f)
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoSource.scala -> hash(18ea8ec8b68dc7d47bdc430c7d98a6ab47b99c6d)
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoStreams.scala -> hash(c2bd62eef4a339cb2f8b1145321ac5834f979661)
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/Streams.scala -> hash(ee84b9f264e073eaaed864994cc03b94764837d5)
+binary stamps:
+9 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_60.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1438711540000)
+/Users/anicolaspp/.ivy2/cache/com.typesafe.akka/akka-actor_2.12/jars/akka-actor_2.12-2.4.17.jar -> lastModified(1486741374000)
+/Users/anicolaspp/.ivy2/cache/com.typesafe.akka/akka-stream-kafka_2.12/jars/akka-stream-kafka_2.12-0.13.jar -> lastModified(1479895794000)
+/Users/anicolaspp/.ivy2/cache/com.typesafe.akka/akka-stream_2.12/jars/akka-stream_2.12-2.4.17.jar -> lastModified(1486741440000)
+/Users/anicolaspp/.ivy2/cache/org.apache.kafka/kafka-clients/jars/kafka-clients-0.10.0.1.jar -> lastModified(1470314482000)
+/Users/anicolaspp/.ivy2/cache/org.reactivemongo/reactivemongo-akkastream_2.12/jars/reactivemongo-akkastream_2.12-0.12.1.jar -> lastModified(1482517546000)
+/Users/anicolaspp/.ivy2/cache/org.reactivemongo/reactivemongo-bson_2.12/jars/reactivemongo-bson_2.12-0.12.1.jar -> lastModified(1482511032000)
+/Users/anicolaspp/.ivy2/cache/org.reactivemongo/reactivemongo_2.12/jars/reactivemongo_2.12-0.12.1.jar -> lastModified(1482511075000)
+/Users/anicolaspp/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.1.jar -> lastModified(1480936165000)
+class names:
+9 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_60.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.Object
+/Users/anicolaspp/.ivy2/cache/com.typesafe.akka/akka-actor_2.12/jars/akka-actor_2.12-2.4.17.jar -> akka.actor.ActorRefFactory
+/Users/anicolaspp/.ivy2/cache/com.typesafe.akka/akka-stream-kafka_2.12/jars/akka-stream-kafka_2.12-0.13.jar -> akka.kafka.scaladsl.Consumer
+/Users/anicolaspp/.ivy2/cache/com.typesafe.akka/akka-stream_2.12/jars/akka-stream_2.12-2.4.17.jar -> akka.stream.Materializer
+/Users/anicolaspp/.ivy2/cache/org.apache.kafka/kafka-clients/jars/kafka-clients-0.10.0.1.jar -> org.apache.kafka.clients.consumer.ConsumerRecord
+/Users/anicolaspp/.ivy2/cache/org.reactivemongo/reactivemongo-akkastream_2.12/jars/reactivemongo-akkastream_2.12-0.12.1.jar -> reactivemongo.akkastream.State$
+/Users/anicolaspp/.ivy2/cache/org.reactivemongo/reactivemongo-bson_2.12/jars/reactivemongo-bson_2.12-0.12.1.jar -> reactivemongo.bson.BSONDocument$
+/Users/anicolaspp/.ivy2/cache/org.reactivemongo/reactivemongo_2.12/jars/reactivemongo_2.12-0.12.1.jar -> reactivemongo.api.collections.bson.BSONCollection
+/Users/anicolaspp/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.1.jar -> scala.Function1
+internal apis:
+5 items
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSink.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwwXrKfQAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAANzcgAgeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2hbDvUidjhXzwIAAkkABGhhc2hMAARuYW1ldAASTGphdmEvbGFuZy9TdHJpbmc7eHCor67IdAADbWF0c3EAfgAL0TlZ3HQAAmVjc3EAfgALKBjXFHQABnN5c3RlbXVxAH4ACQAAABxzcQB+AAuPMDGedAAGbm90aWZ5c3EAfgALmZrZFHQABHdhaXRzcQB+AAv2wA1kdAANJGFzSW5zdGFuY2VPZnNxAH4AC2VoOw50ABVwcm9jZXNzU291cmNlV2l0aFNpbmtzcQB+AAslVNKvdAAGZXF1YWxzc3EAfgALi0k7vnQADGFzSW5zdGFuY2VPZnNxAH4AC5e0bf50AAxzeW5jaHJvbml6ZWRzcQB+AAtoGpWhdAANJGlzSW5zdGFuY2VPZnNxAH4AC8Qc9z90AANybmRzcQB+AAsXvEvodAAFYUZsb3dzcQB+AAvYo7r0dAAEbWFpbnNxAH4AC4Z33od0AAlub3RpZnlBbGxzcQB+AAuj/4ALdAAMaXNJbnN0YW5jZU9mc3EAfgALNTnnvnQADWdldENvbGxlY3Rpb25zcQB+AAswIPnYdAACPT1zcQB+AAvjrbIddAAFY2xvbmVzcQB+AAuKtZ7+dAAfZ2V0RG9jdW1lbnRTb3VyY2VGcm9tQ29sbGVjdGlvbnNxAH4AC1II1HR0AAlLYWZrYVNpbmtzcQB+AAtqdP5qdAAGJGluaXQkc3EAfgALxbE4E3QAEnJhbmRvbVZhbHVlc1NvdXJjZXNxAH4AC7onNrd0AAh0b1N0cmluZ3NxAH4AC0XRR8R0AAIhPXNxAH4AC+8nMqB0AAhnZXRDbGFzc3NxAH4AC/uGUQV0AAJuZXNxAH4AC+xTuWF0AAJlcXNxAH4AC+/aJOp0AAIjI3NxAH4ACwLDBmJ0AAhmaW5hbGl6ZXNxAH4AC/EbGZ90AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AFV4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgAMeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cABxAH4AN3VyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AbHNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBVTAAJaW5oZXJpdGVkcQB+AFVMAAdwYXJlbnRzcQB+AFV4cQB+AHFzcQB+AGx1cQB+AFAAAAABc3IADXhzYnRpLmFwaS5EZWZSvp/ifLQ2aQIAAkwACnJldHVyblR5cGV0ABBMeHNidGkvYXBpL1R5cGU7WwAPdmFsdWVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvUGFyYW1ldGVyTGlzdDt4cQB+AFZxAH4AX3VxAH4AYAAAAABzcQB+AGIAcQB+ACl1cQB+AGQAAAAAc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgAMTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AcHQABFVuaXRzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AHBzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgAMeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AIx1cgAaW0x4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdDv10zod8rNw7gIAAHhwAAAAAXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdNbFvBxkSXTjAgACWgAKaXNJbXBsaWNpdFsACnBhcmFtZXRlcnN0ABxbTHhzYnRpL2FwaS9NZXRob2RQYXJhbWV0ZXI7eHAAdXIAHFtMeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlcjvPuMVdpd21bQIAAHhwAAAAAXNyABl4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyH0WuF9NJsOoCAARaAApoYXNEZWZhdWx0TAAIbW9kaWZpZXJ0AB1MeHNidGkvYXBpL1BhcmFtZXRlck1vZGlmaWVyO0wABG5hbWVxAH4ADEwAA3RwZXEAfgB5eHAAfnIAG3hzYnRpLmFwaS5QYXJhbWV0ZXJNb2RpZmllcgAAAAAAAAAAEgAAeHEAfgBndAAFUGxhaW50AARhcmdzc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgCAWwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgBwc3EAfgB/dAAFQXJyYXlxAH4AhXVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAABc3EAfgB/dAAGU3RyaW5nc3EAfgCDc3EAfgCGdXEAfgCJAAAAA3NxAH4Ai3QABGphdmFzcQB+AIt0AARsYW5ncQB+AJBzcQB+AGx1cQB+AFAAAAAAc3EAfgBsdXEAfgCkAAAAA3NxAH4Af3QAC01vbmdvU291cmNlc3EAfgCDc3EAfgCGdXEAfgCJAAAAAXEAfgCQc3EAfgB/dAAGT2JqZWN0cQB+AKhzcQB+AH90AANBbnlxAH4AhXVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFaaUGAM3VyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADEwAD3NvdXJjZURpcmVjdG9yeXEAfgAMeHB0AD4vVXNlcnMvYW5pY29sYXNwcC9JZGVhUHJvamVjdHMvaGxpc3QvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFJWYU0rId4fRLu+S3bvj2ewhsY7e
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSource.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwSRXBlgAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAJzcgAgeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2hbDvUidjhXzwIAAkkABGhhc2hMAARuYW1ldAASTGphdmEvbGFuZy9TdHJpbmc7eHAqrBN3dAADbWF0c3EAfgALihNSRXQABnN5c3RlbXVxAH4ACQAAABVzcQB+AAuWdJbWdAAGbm90aWZ5c3EAfgALx20RVXQAC0thZmthU291cmNlc3EAfgALf3JyRXQABHdhaXRzcQB+AAtmVyybdAANJGFzSW5zdGFuY2VPZnNxAH4AC6rmp4p0AAZlcXVhbHNzcQB+AAvrYWOOdAAMYXNJbnN0YW5jZU9mc3EAfgALYjxKG3QADHN5bmNocm9uaXplZHNxAH4AC3Uir9x0AA0kaXNJbnN0YW5jZU9mc3EAfgAL1wMDdnQABG1haW5zcQB+AAuU+DvSdAAJbm90aWZ5QWxsc3EAfgAL86V7x3QADGlzSW5zdGFuY2VPZnNxAH4ACymj/vV0AAI9PXNxAH4ACwqtrJZ0AAVjbG9uZXNxAH4AC2iuKd90AAh0b1N0cmluZ3NxAH4AC4/81st0AAIhPXNxAH4AC+jU8JF0AAhnZXRDbGFzc3NxAH4AC61gXFh0AAJuZXNxAH4AC1fAe3h0AAJlcXNxAH4AC8Iob7x0AAIjI3NxAH4AC8hiMy50AAhmaW5hbGl6ZXNxAH4ACxech+x0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEV4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgAMeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cABxAH4AFXVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AXHNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBFTAAJaW5oZXJpdGVkcQB+AEVMAAdwYXJlbnRzcQB+AEV4cQB+AGFzcQB+AFx1cQB+AEAAAAABc3IADXhzYnRpLmFwaS5EZWZSvp/ifLQ2aQIAAkwACnJldHVyblR5cGV0ABBMeHNidGkvYXBpL1R5cGU7WwAPdmFsdWVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvUGFyYW1ldGVyTGlzdDt4cQB+AEZxAH4AT3VxAH4AUAAAAABzcQB+AFIAcQB+ACN1cQB+AFQAAAAAc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgAMTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AYHQABFVuaXRzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AGBzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgAMeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AHx1cgAaW0x4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdDv10zod8rNw7gIAAHhwAAAAAXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdNbFvBxkSXTjAgACWgAKaXNJbXBsaWNpdFsACnBhcmFtZXRlcnN0ABxbTHhzYnRpL2FwaS9NZXRob2RQYXJhbWV0ZXI7eHAAdXIAHFtMeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlcjvPuMVdpd21bQIAAHhwAAAAAXNyABl4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyH0WuF9NJsOoCAARaAApoYXNEZWZhdWx0TAAIbW9kaWZpZXJ0AB1MeHNidGkvYXBpL1BhcmFtZXRlck1vZGlmaWVyO0wABG5hbWVxAH4ADEwAA3RwZXEAfgBpeHAAfnIAG3hzYnRpLmFwaS5QYXJhbWV0ZXJNb2RpZmllcgAAAAAAAAAAEgAAeHEAfgBXdAAFUGxhaW50AARhcmdzc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgBwWwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgBgc3EAfgBvdAAFQXJyYXlxAH4AdXVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAABc3EAfgBvdAAGU3RyaW5nc3EAfgBzc3EAfgB2dXEAfgB5AAAAA3NxAH4Ae3QABGphdmFzcQB+AHt0AARsYW5ncQB+AIBzcQB+AFx1cQB+AEAAAAAAc3EAfgBcdXEAfgCUAAAAAnNxAH4Ab3QABk9iamVjdHEAfgCYc3EAfgBvdAADQW55cQB+AHV1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWmlECq51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AAxMAA9zb3VyY2VEaXJlY3RvcnlxAH4ADHhwdAA+L1VzZXJzL2FuaWNvbGFzcHAvSWRlYVByb2plY3RzL2hsaXN0L3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABR4ipCM+kz2MFZWuKkOaer84CCzbw==
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoSource.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhw75ktkgAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAXc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwIhBixHQABm5vdGlmeXNxAH4ADNla9aZ0AAR3YWl0c3EAfgAM5W09UXQAC01vbmdvU291cmNlc3EAfgAMYm9Mn3QADSRhc0luc3RhbmNlT2ZzcQB+AAxQqFhgdAAGZXF1YWxzc3EAfgAM/A8ihHQADGFzSW5zdGFuY2VPZnNxAH4ADAxXT250AAxzeW5jaHJvbml6ZWRzcQB+AAxGMsPrdAANJGlzSW5zdGFuY2VPZnNxAH4ADLaMIX90AAlub3RpZnlBbGxzcQB+AAxz/HUkdAAMaXNJbnN0YW5jZU9mc3EAfgAMpJkBZ3QADWdldENvbGxlY3Rpb25zcQB+AAzzwr7tdAACPT1zcQB+AAxHpP+LdAAFY2xvbmVzcQB+AAyYJyYbdAAfZ2V0RG9jdW1lbnRTb3VyY2VGcm9tQ29sbGVjdGlvbnNxAH4ADEVl8eF0AAYkaW5pdCRzcQB+AAwVRNvAdAAIdG9TdHJpbmdzcQB+AAweg+osdAACIT1zcQB+AAxmlzJ/dAAIZ2V0Q2xhc3NzcQB+AAy+vB20dAACbmVzcQB+AAzUkEuWdAACZXFzcQB+AAwQGF+JdAACIyNzcQB+AAyp3OzCdAAIZmluYWxpemVzcQB+AAy1CR75dAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBFeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHABcQB+ABN1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAVUcmFpdHVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AXHNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBFTAAJaW5oZXJpdGVkcQB+AEVMAAdwYXJlbnRzcQB+AEV4cQB+AGFzcQB+AFx1cQB+AEAAAAAAc3EAfgBcdXEAfgBAAAAAAHNxAH4AXHVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AYHQABk9iamVjdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AYHNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEamF2YXNxAH4AeXQABGxhbmdzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AenNxAH4AbXQAA0FueXNxAH4AcXNxAH4AdHVxAH4AdwAAAAJzcQB+AHl0AAVzY2FsYXEAfgCAdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAABzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVppQYAzdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAPi9Vc2Vycy9hbmljb2xhc3BwL0lkZWFQcm9qZWN0cy9obGlzdC90YXJnZXQvc2NhbGEtMi4xMi9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUGOqOyLaNx9R73EMMfZimq0e5nG0=
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoStreams.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwwo1h9QAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAANzcgAgeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2hbDvUidjhXzwIAAkkABGhhc2hMAARuYW1ldAASTGphdmEvbGFuZy9TdHJpbmc7eHCXCGfldAADbWF0c3EAfgALrxfqHnQAAmVjc3EAfgALqvAzUHQABnN5c3RlbXVxAH4ACQAAABlzcQB+AAtJ20fIdAAGbm90aWZ5c3EAfgAL42nh9HQABHdhaXRzcQB+AAtl0BlDdAANJGFzSW5zdGFuY2VPZnNxAH4AC01PXFZ0AAZlcXVhbHNzcQB+AAtmpJyPdAAMYXNJbnN0YW5jZU9mc3EAfgALgfFHSHQADHN5bmNocm9uaXplZHNxAH4AC9ntDb50AA0kaXNJbnN0YW5jZU9mc3EAfgALX7KCRHQABG1haW5zcQB+AAszY4ZkdAAMTW9uZ29TdHJlYW1zc3EAfgALnMCgVHQACW5vdGlmeUFsbHNxAH4AC/SR5HB0AAxpc0luc3RhbmNlT2ZzcQB+AAskrQ9EdAANZ2V0Q29sbGVjdGlvbnNxAH4AC+jqozF0AAI9PXNxAH4ACxOtqtV0AAVjbG9uZXNxAH4AC7BZvXp0AB9nZXREb2N1bWVudFNvdXJjZUZyb21Db2xsZWN0aW9uc3EAfgALJMRvc3QABiRpbml0JHNxAH4AC5vHRCZ0AAh0b1N0cmluZ3NxAH4AC8Y+PKd0AAIhPXNxAH4AC/uloqp0AAhnZXRDbGFzc3NxAH4AC9hVZyF0AAJuZXNxAH4AC+H/dR90AA1wcm9jZXNzU291cmNlc3EAfgALVWckGXQAAmVxc3EAfgALs2q3sHQAAiMjc3EAfgALvMMSWnQACGZpbmFsaXplc3EAfgALxCuML3QACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AT3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AAx4cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHEAfgAldXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBmc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AE9MAAlpbmhlcml0ZWRxAH4AT0wAB3BhcmVudHNxAH4AT3hxAH4Aa3NxAH4AZnVxAH4ASgAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4AUHEAfgBZdXEAfgBaAAAAAHNxAH4AXABxAH4AI3VxAH4AXgAAAABzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AAxMAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBqdAAEVW5pdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AanNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AAx4cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AhnVyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgAMTAADdHBlcQB+AHN4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AGF0AAVQbGFpbnQABGFyZ3NzcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AHpbAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+AGpzcQB+AHl0AAVBcnJheXEAfgB/dXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAFzcQB+AHl0AAZTdHJpbmdzcQB+AH1zcQB+AIB1cQB+AIMAAAADc3EAfgCFdAAEamF2YXNxAH4AhXQABGxhbmdxAH4AinNxAH4AZnVxAH4ASgAAAABzcQB+AGZ1cQB+AJ4AAAADc3EAfgB5dAALTW9uZ29Tb3VyY2VzcQB+AH1zcQB+AIB1cQB+AIMAAAABcQB+AIpzcQB+AHl0AAZPYmplY3RxAH4AonNxAH4AeXQAA0FueXEAfgB/dXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAABzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVppQYAzdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgAMTAAPc291cmNlRGlyZWN0b3J5cQB+AAx4cHQAPi9Vc2Vycy9hbmljb2xhc3BwL0lkZWFQcm9qZWN0cy9obGlzdC90YXJnZXQvc2NhbGEtMi4xMi9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUwr1i7vSjOcsvixFFMhrFg0+XlmE=
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/Streams.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwyYOx0gAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAkc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwCDTDiXQABm5vdGlmeXNxAH4ADOIcQmh0AAR3YWl0c3EAfgAMU2K/VHQAB1N0cmVhbXNzcQB+AAyh2Bn2dAANJGFzSW5zdGFuY2VPZnNxAH4ADFsS06d0AAxwcm9kdWN0QXJpdHlzcQB+AAxGOAX0dAAGZXF1YWxzc3EAfgAMm8POgXQABk51bWJlcnNxAH4ADP+ll0B0AARzdWNjc3EAfgAMO/fKlnQADGFzSW5zdGFuY2VPZnNxAH4ADEkM70Z0AAh0b051bWJlcnNxAH4ADOid5850AAxzeW5jaHJvbml6ZWRzcQB+AAyIVtXidAANJGlzSW5zdGFuY2VPZnNxAH4ADF/ZQWp0AAhjYW5FcXVhbHNxAH4ADCk7hmB0AARtYWluc3EAfgAMMKirynQADXByb2R1Y3RQcmVmaXhzcQB+AAyzNvx8dAAJbm90aWZ5QWxsc3EAfgAML9SbfXQADGlzSW5zdGFuY2VPZnNxAH4ADNXOyux0AAY8aW5pdD5zcQB+AAynuQwxdAACPT1zcQB+AAwPMBvLdAAFY2xvbmVzcQB+AAyo9rRydAAGJGluaXQkc3EAfgAM5nh+e3QABGNvcHlzcQB+AAxX0bJ2dAAIdG9TdHJpbmdzcQB+AAx1bGmsdAACIT1zcQB+AAzK/tE7dAAIZ2V0Q2xhc3NzcQB+AAzTQT5ldAAOY29weSRkZWZhdWx0JDFzcQB+AAxAHRC6dAACbmVzcQB+AAwP4abUdAAUdW5ib3VuZGVkTnVtYmVyc0Zyb21zcQB+AAzXlHIUdAAFdmFsdWVzcQB+AAzMU64ndAACZXFzcQB+AAzeHBkIdAAPcHJvZHVjdEl0ZXJhdG9yc3EAfgAMFKC2D3QAAiMjc3EAfgAMoO80J3QACGZpbmFsaXplc3EAfgAMg0ddPnQADnByb2R1Y3RFbGVtZW50c3EAfgAMOAZiW3QACGhhc2hDb2Rlc3EAfgAMNj3janQABmlzRXZlbnNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAJzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AF94cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cABxAH4AG3VyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgB2c3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AF9MAAlpbmhlcml0ZWRxAH4AX0wAB3BhcmVudHNxAH4AX3hxAH4Ae3NxAH4AdnVxAH4AWgAAAABzcQB+AHZ1cQB+AFoAAAAAc3EAfgB2dXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAZzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgB6dAAMU2VyaWFsaXphYmxlc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgB6c3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCUc3EAfgCHcQB+AIpzcQB+AItzcQB+AI51cQB+AJEAAAADc3EAfgCTdAAEamF2YXNxAH4Ak3QAAmlvcQB+AJhzcQB+AId0AAdQcm9kdWN0cQB+AI1zcQB+AId0AAZFcXVhbHNxAH4AjXNxAH4Ah3QABk9iamVjdHNxAH4Ai3NxAH4AjnVxAH4AkQAAAANzcQB+AJNxAH4AnnNxAH4Ak3QABGxhbmdxAH4AmHNxAH4Ah3QAA0FueXEAfgCNc3EAfgBccQB+AGl1cQB+AGoAAAAAc3EAfgBsAHEAfgATdXEAfgBuAAAAAH5xAH4AcHQABk1vZHVsZXVxAH4AdAAAAABzcQB+AHZxAH4AfHNxAH4AdnNxAH4AfnNxAH4AdnVxAH4AWgAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4AYHEAfgBpdXEAfgBqAAAAAHNxAH4AbABxAH4AKXVxAH4AbgAAAABzcQB+AId0AARVbml0c3EAfgCLc3EAfgCOdXEAfgCRAAAAAnNxAH4Ak3EAfgCWcQB+AJh1cgAaW0x4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdDv10zod8rNw7gIAAHhwAAAAAXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdNbFvBxkSXTjAgACWgAKaXNJbXBsaWNpdFsACnBhcmFtZXRlcnN0ABxbTHhzYnRpL2FwaS9NZXRob2RQYXJhbWV0ZXI7eHAAdXIAHFtMeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlcjvPuMVdpd21bQIAAHhwAAAAAXNyABl4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyH0WuF9NJsOoCAARaAApoYXNEZWZhdWx0TAAIbW9kaWZpZXJ0AB1MeHNidGkvYXBpL1BhcmFtZXRlck1vZGlmaWVyO0wABG5hbWVxAH4ADUwAA3RwZXEAfgC8eHAAfnIAG3hzYnRpLmFwaS5QYXJhbWV0ZXJNb2RpZmllcgAAAAAAAAAAEgAAeHEAfgBxdAAFUGxhaW50AARhcmdzc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgCIWwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgB6c3EAfgCHdAAFQXJyYXlxAH4AxHVxAH4AhQAAAAFzcQB+AId0AAZTdHJpbmdzcQB+AItzcQB+AI51cQB+AJEAAAADc3EAfgCTcQB+AJ5zcQB+AJNxAH4ArHEAfgCYc3EAfgB2dXEAfgBaAAAAAHNxAH4AdnVxAH4AhQAAAAJzcQB+AIdxAH4ApnEAfgDec3EAfgCHcQB+AK5xAH4AxHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFaaUGAM3VyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AD4vVXNlcnMvYW5pY29sYXNwcC9JZGVhUHJvamVjdHMvaGxpc3QvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFO6EufJk4HPqrthkmUzAO5R2SDfV
+external apis:
+0 items
+source infos:
+5 items
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSink.scala -> 
+AAAAAAAAAAA=
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSource.scala -> 
+AAAAAAAAAAA=
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoSource.scala -> 
+AAAAAAAAAAA=
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoStreams.scala -> 
+AAAAAAAAAAA=
+/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/Streams.scala -> 
+AAAAAAAAAAA=
+compilations:
+4 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWmknbyB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPi9Vc2Vycy9hbmljb2xhc3BwL0lkZWFQcm9qZWN0cy9obGlzdC90YXJnZXQvc2NhbGEtMi4xMi9jbGFzc2VzdAABLw==
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWmkp25p1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPi9Vc2Vycy9hbmljb2xhc3BwL0lkZWFQcm9qZWN0cy9obGlzdC90YXJnZXQvc2NhbGEtMi4xMi9jbGFzc2VzdAABLw==
+2 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWmlBgDN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPi9Vc2Vycy9hbmljb2xhc3BwL0lkZWFQcm9qZWN0cy9obGlzdC90YXJnZXQvc2NhbGEtMi4xMi9jbGFzc2VzdAABLw==
+3 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWmlECq51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPi9Vc2Vycy9hbmljb2xhc3BwL0lkZWFQcm9qZWN0cy9obGlzdC90YXJnZXQvc2NhbGEtMi4xMi9jbGFzc2VzdAABLw==

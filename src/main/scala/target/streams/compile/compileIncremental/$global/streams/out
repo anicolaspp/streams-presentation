@@ -1,0 +1,182 @@
+[0m[[0mdebug[0m] [0m[naha] [0m
+[0m[[0mdebug[0m] [0m[naha] Initial source changes: [0m
+[0m[[0mdebug[0m] [0m[naha] 	removed:Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	added: Set(/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoStreams.scala, /Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSink.scala, /Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSource.scala, /Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoSource.scala, /Users/anicolaspp/IdeaProjects/hlist/src/main/scala/Streams.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] 	modified: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated products: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] External API changes: API Changes: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Modified binary dependencies: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Initial directly invalidated sources: Set(/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoStreams.scala, /Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSink.scala, /Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSource.scala, /Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoSource.scala, /Users/anicolaspp/IdeaProjects/hlist/src/main/scala/Streams.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] [0m
+[0m[[0mdebug[0m] [0m[naha] Sources indirectly invalidated by:[0m
+[0m[[0mdebug[0m] [0m[naha] 	product: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	binary dep: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	external source: Set()[0m
+[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set(/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoStreams.scala, /Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSink.scala, /Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSource.scala, /Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoSource.scala, /Users/anicolaspp/IdeaProjects/hlist/src/main/scala/Streams.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoStreams.scala, /Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSink.scala, /Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSource.scala, /Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoSource.scala, /Users/anicolaspp/IdeaProjects/hlist/src/main/scala/Streams.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Recompiling all 5 sources: invalidated sources (5) exceeded 50.0% of all sources[0m
+[0m[[0minfo[0m] [0mCompiling 5 Scala sources to /Users/anicolaspp/IdeaProjects/hlist/src/main/scala/target/scala-2.10/classes...[0m
+[0m[[0mdebug[0m] [0mGetting org.scala-sbt:compiler-interface:0.13.13:component from component compiler for Scala 2.10.6[0m
+[0m[[0mdebug[0m] [0mGetting org.scala-sbt:compiler-interface:0.13.13:component from component compiler for Scala 2.10.6[0m
+[0m[[0mdebug[0m] [0mRunning cached compiler e70d1d, interfacing (CompilerInterface) with Scala compiler version 2.10.6[0m
+[0m[[0mdebug[0m] [0mCalling Scala compiler with arguments  (CompilerInterface):[0m
+[0m[[0mdebug[0m] [0m	-bootclasspath[0m
+[0m[[0mdebug[0m] [0m	/Library/Java/JavaVirtualMachines/jdk1.8.0_60.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_60.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_60.jdk/Contents/Home/jre/lib/sunrsasign.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_60.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_60.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_60.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_60.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_60.jdk/Contents/Home/jre/classes:/Users/anicolaspp/.sbt/boot/scala-2.10.6/lib/scala-library.jar[0m
+[0m[[0mdebug[0m] [0m	-classpath[0m
+[0m[[0mdebug[0m] [0m	/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/target/scala-2.10/classes[0m
+[0m[[31merror[0m] [0m/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSink.scala:5: not found: object akka[0m
+[0m[[31merror[0m] [0mimport akka.Done[0m
+[0m[[31merror[0m] [0m       ^[0m
+[0m[[31merror[0m] [0m/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSink.scala:6: not found: object akka[0m
+[0m[[31merror[0m] [0mimport akka.actor.ActorSystem[0m
+[0m[[31merror[0m] [0m       ^[0m
+[0m[[31merror[0m] [0m/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSink.scala:7: not found: object akka[0m
+[0m[[31merror[0m] [0mimport akka.kafka.ProducerSettings[0m
+[0m[[31merror[0m] [0m       ^[0m
+[0m[[31merror[0m] [0m/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSink.scala:8: not found: object akka[0m
+[0m[[31merror[0m] [0mimport akka.kafka.scaladsl.Producer[0m
+[0m[[31merror[0m] [0m       ^[0m
+[0m[[31merror[0m] [0m/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSink.scala:9: not found: object akka[0m
+[0m[[31merror[0m] [0mimport akka.stream.ActorMaterializer[0m
+[0m[[31merror[0m] [0m       ^[0m
+[0m[[31merror[0m] [0m/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSink.scala:10: not found: object akka[0m
+[0m[[31merror[0m] [0mimport akka.stream.scaladsl.{Sink, Source}[0m
+[0m[[31merror[0m] [0m       ^[0m
+[0m[[31merror[0m] [0m/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSink.scala:11: object apache is not a member of package org[0m
+[0m[[31merror[0m] [0mimport org.apache.kafka.clients.producer.ProducerRecord[0m
+[0m[[31merror[0m] [0m           ^[0m
+[0m[[31merror[0m] [0m/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSink.scala:12: object apache is not a member of package org[0m
+[0m[[31merror[0m] [0mimport org.apache.kafka.common.serialization.{ByteArraySerializer, StringSerializer}[0m
+[0m[[31merror[0m] [0m           ^[0m
+[0m[[31merror[0m] [0m/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSink.scala:13: not found: object reactivemongo[0m
+[0m[[31merror[0m] [0mimport reactivemongo.akkastream.State[0m
+[0m[[31merror[0m] [0m       ^[0m
+[0m[[31merror[0m] [0m/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSink.scala:14: not found: object reactivemongo[0m
+[0m[[31merror[0m] [0mimport reactivemongo.bson.BSONDocument[0m
+[0m[[31merror[0m] [0m       ^[0m
+[0m[[31merror[0m] [0m/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSink.scala:20: not found: value ActorSystem[0m
+[0m[[31merror[0m] [0m  implicit val system = ActorSystem("demo")[0m
+[0m[[31merror[0m] [0m                        ^[0m
+[0m[[31merror[0m] [0m/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSink.scala:21: not found: value ActorMaterializer[0m
+[0m[[31merror[0m] [0m  implicit val mat = ActorMaterializer()[0m
+[0m[[31merror[0m] [0m                     ^[0m
+[0m[[31merror[0m] [0m/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSink.scala:26: not found: value ProducerSettings[0m
+[0m[[31merror[0m] [0m      ProducerSettings(system, new ByteArraySerializer, new StringSerializer)[0m
+[0m[[31merror[0m] [0m      ^[0m
+[0m[[31merror[0m] [0m/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSink.scala:29: not found: value Producer[0m
+[0m[[31merror[0m] [0m    val kafkaSink = Producer.plainSink(settings)[0m
+[0m[[31merror[0m] [0m                    ^[0m
+[0m[[31merror[0m] [0m/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoSource.scala:7: not found: object reactivemongo[0m
+[0m[[31merror[0m] [0mimport reactivemongo.api.collections.bson.BSONCollection[0m
+[0m[[31merror[0m] [0m       ^[0m
+[0m[[31merror[0m] [0m/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoSource.scala:18: not found: type BSONCollection[0m
+[0m[[31merror[0m] [0m  def getCollection()(implicit ec: ExecutionContext): Future[BSONCollection] = for {[0m
+[0m[[31merror[0m] [0m                                                             ^[0m
+[0m[[31merror[0m] [0m/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoSource.scala:9: not found: object reactivemongo[0m
+[0m[[31merror[0m] [0mimport reactivemongo.bson.BSONDocument[0m
+[0m[[31merror[0m] [0m       ^[0m
+[0m[[31merror[0m] [0m/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoSource.scala:8: not found: object reactivemongo[0m
+[0m[[31merror[0m] [0mimport reactivemongo.api.{MongoConnection, MongoDriver}[0m
+[0m[[31merror[0m] [0m       ^[0m
+[0m[[31merror[0m] [0m/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoSource.scala:6: not found: object reactivemongo[0m
+[0m[[31merror[0m] [0mimport reactivemongo.akkastream.cursorProducer[0m
+[0m[[31merror[0m] [0m       ^[0m
+[0m[[31merror[0m] [0m/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoSource.scala:5: not found: object akka[0m
+[0m[[31merror[0m] [0mimport akka.stream.ActorMaterializer[0m
+[0m[[31merror[0m] [0m       ^[0m
+[0m[[31merror[0m] [0m/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoSource.scala:15: not found: type ActorMaterializer[0m
+[0m[[31merror[0m] [0m  def getDocumentSourceFromCollection()(implicit ec: ExecutionContext, mat: ActorMaterializer) =[0m
+[0m[[31merror[0m] [0m                                                                            ^[0m
+[0m[[31merror[0m] [0m/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSink.scala:38: not found: type Source[0m
+[0m[[31merror[0m] [0m  def processSourceWithSink(source: Source[BSONDocument, Future[State]], kafkaSink: Sink[ProducerRecord[Array[Byte], String], Future[Done]]) = {[0m
+[0m[[31merror[0m] [0m                                    ^[0m
+[0m[[31merror[0m] [0m/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSink.scala:38: not found: type Sink[0m
+[0m[[31merror[0m] [0m  def processSourceWithSink(source: Source[BSONDocument, Future[State]], kafkaSink: Sink[ProducerRecord[Array[Byte], String], Future[Done]]) = {[0m
+[0m[[31merror[0m] [0m                                                                                    ^[0m
+[0m[[31merror[0m] [0m/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSource.scala:1: not found: object akka[0m
+[0m[[31merror[0m] [0mimport akka.actor.ActorSystem[0m
+[0m[[31merror[0m] [0m       ^[0m
+[0m[[31merror[0m] [0m/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSource.scala:2: not found: object akka[0m
+[0m[[31merror[0m] [0mimport akka.kafka.scaladsl.Consumer[0m
+[0m[[31merror[0m] [0m       ^[0m
+[0m[[31merror[0m] [0m/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSource.scala:3: not found: object akka[0m
+[0m[[31merror[0m] [0mimport akka.kafka.{ConsumerSettings, Subscriptions}[0m
+[0m[[31merror[0m] [0m       ^[0m
+[0m[[31merror[0m] [0m/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSource.scala:4: not found: object akka[0m
+[0m[[31merror[0m] [0mimport akka.stream.ActorMaterializer[0m
+[0m[[31merror[0m] [0m       ^[0m
+[0m[[31merror[0m] [0m/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSource.scala:5: object apache is not a member of package org[0m
+[0m[[31merror[0m] [0mimport org.apache.kafka.clients.consumer.ConsumerConfig[0m
+[0m[[31merror[0m] [0m           ^[0m
+[0m[[31merror[0m] [0m/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSource.scala:6: object apache is not a member of package org[0m
+[0m[[31merror[0m] [0mimport org.apache.kafka.common.serialization.{ByteArrayDeserializer, StringDeserializer}[0m
+[0m[[31merror[0m] [0m           ^[0m
+[0m[[31merror[0m] [0m/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSource.scala:15: not found: value ActorSystem[0m
+[0m[[31merror[0m] [0m  implicit val system = ActorSystem("demo")[0m
+[0m[[31merror[0m] [0m                        ^[0m
+[0m[[31merror[0m] [0m/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSource.scala:16: not found: value ActorMaterializer[0m
+[0m[[31merror[0m] [0m  implicit val mat = ActorMaterializer()[0m
+[0m[[31merror[0m] [0m                     ^[0m
+[0m[[31merror[0m] [0m/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSource.scala:19: not found: value ConsumerSettings[0m
+[0m[[31merror[0m] [0m    val settings = ConsumerSettings(system, new ByteArrayDeserializer, new StringDeserializer)[0m
+[0m[[31merror[0m] [0m                   ^[0m
+[0m[[31merror[0m] [0m/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/KafkaSource.scala:23: not found: value Consumer[0m
+[0m[[31merror[0m] [0m    val kafkaSource = Consumer.plainSource(settings, Subscriptions.topics("mongo-topic"))[0m
+[0m[[31merror[0m] [0m                      ^[0m
+[0m[[31merror[0m] [0m/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoSource.scala:23: not found: type MongoConnection[0m
+[0m[[31merror[0m] [0m  private def getConnection()(implicit ec: ExecutionContext): Future[MongoConnection] =[0m
+[0m[[31merror[0m] [0m                                                                     ^[0m
+[0m[[31merror[0m] [0m/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoSource.scala:24: value fromTry is not a member of object scala.concurrent.Future[0m
+[0m[[31merror[0m] [0m    Future.fromTry(MongoConnection.parseURI("mongo.service:27017").map(MongoDriver().connection))[0m
+[0m[[31merror[0m] [0m           ^[0m
+[0m[[31merror[0m] [0m/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoStreams.scala:5: not found: object akka[0m
+[0m[[31merror[0m] [0mimport akka.actor.ActorSystem[0m
+[0m[[31merror[0m] [0m       ^[0m
+[0m[[31merror[0m] [0m/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoStreams.scala:6: not found: object akka[0m
+[0m[[31merror[0m] [0mimport akka.stream.ActorMaterializer[0m
+[0m[[31merror[0m] [0m       ^[0m
+[0m[[31merror[0m] [0m/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoStreams.scala:7: not found: object akka[0m
+[0m[[31merror[0m] [0mimport akka.stream.scaladsl.Source[0m
+[0m[[31merror[0m] [0m       ^[0m
+[0m[[31merror[0m] [0m/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoStreams.scala:8: not found: object reactivemongo[0m
+[0m[[31merror[0m] [0mimport reactivemongo.akkastream.State[0m
+[0m[[31merror[0m] [0m       ^[0m
+[0m[[31merror[0m] [0m/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoStreams.scala:9: not found: object reactivemongo[0m
+[0m[[31merror[0m] [0mimport reactivemongo.bson.BSONDocument[0m
+[0m[[31merror[0m] [0m       ^[0m
+[0m[[31merror[0m] [0m/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoStreams.scala:17: not found: value ActorSystem[0m
+[0m[[31merror[0m] [0m  implicit val system = ActorSystem("demo")[0m
+[0m[[31merror[0m] [0m                        ^[0m
+[0m[[31merror[0m] [0m/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoStreams.scala:18: not found: value ActorMaterializer[0m
+[0m[[31merror[0m] [0m  implicit val mat = ActorMaterializer()[0m
+[0m[[31merror[0m] [0m                     ^[0m
+[0m[[31merror[0m] [0m/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/MongoStreams.scala:31: not found: type Source[0m
+[0m[[31merror[0m] [0m  def processSource(source: Source[BSONDocument, Future[State]]) = {[0m
+[0m[[31merror[0m] [0m                            ^[0m
+[0m[[31merror[0m] [0m/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/Streams.scala:4: not found: object akka[0m
+[0m[[31merror[0m] [0mimport akka.actor.ActorSystem[0m
+[0m[[31merror[0m] [0m       ^[0m
+[0m[[31merror[0m] [0m/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/Streams.scala:5: not found: object akka[0m
+[0m[[31merror[0m] [0mimport akka.stream.ActorMaterializer[0m
+[0m[[31merror[0m] [0m       ^[0m
+[0m[[31merror[0m] [0m/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/Streams.scala:6: not found: object akka[0m
+[0m[[31merror[0m] [0mimport akka.stream.scaladsl.{Flow, Source}[0m
+[0m[[31merror[0m] [0m       ^[0m
+[0m[[31merror[0m] [0m/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/Streams.scala:17: not found: value ActorSystem[0m
+[0m[[31merror[0m] [0m    implicit val system = ActorSystem("demo")[0m
+[0m[[31merror[0m] [0m                          ^[0m
+[0m[[31merror[0m] [0m/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/Streams.scala:18: not found: value ActorMaterializer[0m
+[0m[[31merror[0m] [0m    implicit val mat = ActorMaterializer()[0m
+[0m[[31merror[0m] [0m                       ^[0m
+[0m[[31merror[0m] [0m/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/Streams.scala:20: not found: value Source[0m
+[0m[[31merror[0m] [0m    val numbers = Source.fromIterator(() => unboundedNumbersFrom(0).toIterator)[0m
+[0m[[31merror[0m] [0m                  ^[0m
+[0m[[31merror[0m] [0m/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/Streams.scala:38: not found: value Flow[0m
+[0m[[31merror[0m] [0m  def succ = Flow[Int].map(_ + 1)[0m
+[0m[[31merror[0m] [0m             ^[0m
+[0m[[31merror[0m] [0m/Users/anicolaspp/IdeaProjects/hlist/src/main/scala/Streams.scala:40: not found: value Flow[0m
+[0m[[31merror[0m] [0m  def toNumber = Flow[Int].map(n => Number(n.toString))[0m
+[0m[[31merror[0m] [0m                 ^[0m
+[0m[[31merror[0m] [0m51 errors found[0m
+[0m[[0mdebug[0m] [0mCompilation failed (CompilerInterface)[0m
+[0m[[31merror[0m] [0m(compile:[31mcompileIncremental[0m) Compilation failed[0m
